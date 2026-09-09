@@ -1,2 +1,2 @@
 #My-first-repo
-#editing for clone
+#editing for clone-checking status
